@@ -46,7 +46,7 @@ certchain-dapp/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-user/certchain-dapp.git
+git clone https://github.com/hajerbgh/certchain-dapp.git
 cd certchain-dapp
 ```
 

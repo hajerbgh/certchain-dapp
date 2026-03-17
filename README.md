@@ -149,7 +149,7 @@ event DocumentCertified(
 
 ## 👥 Auteurs
 
-- [Prénom NOM 1] — [email]
-- [Prénom NOM 2] — [email]
+- [Hajer Benghazi] — [hajerbenghazi2003@gmail.com]
+
 
 Projet universitaire — Module Blockchain — 2026
